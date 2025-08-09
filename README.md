@@ -1,0 +1,2 @@
+Fast create
+`dotnet new sln -n App && dotnet new webapi -n App.Api && dotnet new classlib -n App.Core && dotnet new classlib -n App.Services && dotnet new classlib -n App.Data && dotnet add App.Api reference App.Services && dotnet add App.Services reference App.Core && dotnet add App.Services reference App.Data && dotnet add App.Data reference App.Core && dotnet sln add App.Api App.Core App.Services App.Data`
