@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l54tqSawtV0=",
+  "success": true,
+  "projectFilePath": "/home/pashhun/Documents/GitHub/session-based-authentication/App.Api/App.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/pashhun/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/home/pashhun/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
